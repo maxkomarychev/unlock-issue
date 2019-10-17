@@ -9,7 +9,7 @@ Original docs can be found here: https://octokit.github.io/rest.js/#octokit-rout
 # Quick start
 
 ```yaml
-- uses: maxkomarychev/unlock-issue@v0.5.0
+- uses: maxkomarychev/unlock-issue@v0.5.1
   with:
     token: ${{ secrets.GITHUB_TOKEN }}
     issue_number: 100
